@@ -14,6 +14,7 @@ public class Addition {
 		System.out.println(multiplyIntegers(10, 50));
 		System.out.println(addFloat((float)60.5, (float)0.5));
 		System.out.println(addFloat((float)60, (float)0.5));
+		System.out.println(addFloat((float)50, (float)0.5));
 		
 	}
 
