@@ -9,7 +9,7 @@ public class PrintCar {
 
 	public static void stop() {
 		System.out.println("my car stops");
-	}
+	} 
 
 	public static void drive() {
 		System.out.println("my car is on drive");
