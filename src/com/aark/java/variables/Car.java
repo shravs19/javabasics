@@ -1,4 +1,4 @@
-package seleniumtraining;
+package com.aark.java.variables;
 
 public class Car {
 	

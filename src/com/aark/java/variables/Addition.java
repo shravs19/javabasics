@@ -1,4 +1,4 @@
-package seleniumtraining;
+package com.aark.java.variables;
 
 public class Addition {
 
@@ -13,6 +13,8 @@ public class Addition {
 		System.out.println(substractIntegers(5, 10));
 		System.out.println(multiplyIntegers(10, 50));
 		System.out.println(addFloat((float)60.5, (float)0.5));
+		System.out.println(addFloat((float)60, (float)0.5));
+		
 	}
 
 	public static int addIntegers(int a, int b) {
